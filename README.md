@@ -3,7 +3,7 @@
 ### Overview and Purpose
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Using the combined powers of VBA and Excel, this project aims to analyze stock market data to help us understand the stocks that would be a good investment, and inversely which stocks have had a poor performance.  To do that, we will write a code that will pull two important factors that define a good stock: the total daily volume and yearly return. The total daily volume simply finds out how many times a certain stock was traded over a year. The yearly return of a stock is the percentage increase or decrease in the price of the stock. With these two important pieces of information, we can confidently make informed decisions on our investments.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Another unrelated purpose of this project is to understand the importance of refactoring old code and showing how efficient refactored code can be.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Another unrelated purpose of this project is to understand the importance of refactoring old code. Refactoring code is the process of taking old code, understanding how it functions, and rewriting it to either organize messy code, or to make certain processes more efficient.   
 ### Results
 #### Stock Data Analysis
 ![2017](2017.png)
@@ -20,7 +20,7 @@
 ### Summary
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Refactoring old code can have many advantages, however there can be drawbacks as well.
 #### Advantages
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Properly refactoring old code can help someone new to the code deepen their understanding of how the code functions. Also as shown above, it can make code perform more efficiently. Messy, disorganized code can be difficult for people new to the code to understand, so simply tidying and organizing the code can help anyone more clearly understand the code. Well organized code can also be easier to maintain in the long run.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Properly refactoring old code can help someone new to the code deepen their understanding of how the code functions. Also as shown above, it can make code perform more efficiently, resulting in the code having to utilize less computer memory to run. Messy, disorganized code can be difficult for people new to the code to understand, so simply tidying and organizing the code can help anyone more clearly understand the code. Well organized code can also be easier to maintain in the long run.
 #### Disadvantages
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;It can take a lot of time and labor cost to refactor a piece of code. Simply the cost may be greater than the overall benefit. Looking again at the pictures above, we can see that the new code was marginally faster than the old code. For short and simple code like this, its probably not worth the trouble to refactor. However for large projects with millions of lines of code, the time saved from refactoring could yield huge benefits.
 
