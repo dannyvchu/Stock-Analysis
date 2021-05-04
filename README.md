@@ -16,7 +16,7 @@
 ![VBA_Challenge_2017](VBA_Challenge_2017.png)
 ![VBA_Challenge_2018](VBA_Challenge_2018.png)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We can see that the new refactored code performs more quickly than the old code. However its unclear whether the change is significant. Running both codes yielded a varying amount of times.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We can see that the new refactored code performs much more quickly than the old code. The refactored code for years 2017 and 2018 performed 67.4% and 60.1% faster than the old code.
 ### Summary
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Refactoring old code can have many advantages, however there can be drawbacks as well.
 #### Advantages
