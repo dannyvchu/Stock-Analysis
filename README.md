@@ -2,6 +2,7 @@
 
 ### Overview and Purpose
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Using the combined powers of VBA and Excel, this project aims to analyze stock market data to help us understand the stocks that would be a good investment, and inversely which stocks have had a poor performance.  To do that, we will write a code that will pull two important factors that define a good stock: the total daily volume and yearly return. The total daily volume simply finds out how many times a certain stock was traded over a year. The yearly return of a stock is the percentage increase or decrease in the price of the stock. With these two important pieces of information, we can confidently make informed decisions on our investments.
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Another unrelated purpose of this project is to understand the importance of refactoring old code. Refactoring code is the process of taking old code, understanding how it functions, and rewriting it to either organize messy code, or to make certain processes more efficient.   
 ### Results
 #### Stock Data Analysis
